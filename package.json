@@ -6,7 +6,9 @@
   "main": "src/index.js",
   "dependencies": {
     "react": "16.11.0",
-    "react-dom": "16.11.0"
+    "react-components": "^0.5.1",
+    "react-dom": "16.11.0",
+    "react-scripts": "^5.0.0"
   },
   "devDependencies": {
     "typescript": "3.3.3"
